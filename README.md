@@ -11,7 +11,7 @@ It is an ensemble algorithm or we can call it as bagging technique.Internally "R
 2)No need for checking for outliers only if we are using this algo.
 
 ## Disadvantages
-1)It will be slow if we are using many estimators.
+1)It will be slow if we are using many trees.
 
 ## Paramters to be taken care to reduce_overfitting.
 1)n_estimators
